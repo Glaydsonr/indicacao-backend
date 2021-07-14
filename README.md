@@ -9,10 +9,11 @@ Projeto Desenvolvido para cadastro e atualização de status dos indicados
 [PHP](https://www.php.net/) >= 7.2.5,
 
 
-[MYSQL](https://www.mysql.com/) 5.6,
+[POSTGRES](https://www.posgres.com/)
 
 
 [Composer](https://getcomposer.org),
+
 
 [Laravel](https://laravel.com/docs/8.x) 8x
 
