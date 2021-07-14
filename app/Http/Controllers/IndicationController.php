@@ -35,7 +35,6 @@ class IndicationController extends Controller
         $indications = $this->indicationRepository->orderBy('name', 'ASC')->paginate();
 
         $data = [];
-
         foreach ($indications as $indication) {
             $data[] = [
                 'id' => $indication->id,
